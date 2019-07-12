@@ -8,3 +8,5 @@ module.exports = {
 // 305521652917-8vpqne86382oiohumsc6fcbgein863gh.apps.googleusercontent.com
 
 // jgho-r5kLqG7CXGNka9oDCoV
+
+// mongodb+srv://myuser:tmBMhflOlIVvzXYs@cluster0-9zjtz.mongodb.net/test?retryWrites=true&w=majority
