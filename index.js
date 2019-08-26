@@ -4,8 +4,8 @@ const mongoose = require("mongoose");
 const cookieSession = require("cookie-session");
 const passport = require("passport");
 const bodyParser = require("body-parser");
-require("./models/User");
-require("./models/Survey");
+require("./models/user");
+require("./models/survey");
 require("./services/passport");
 
 mongoose.connect(keys.mongoURI);
