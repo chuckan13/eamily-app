@@ -6,7 +6,7 @@ const requireLogin = require("../middlewares/requireLogin");
 const requireCredits = require("../middlewares/requireCredits");
 
 const Survey = mongoose.model("surveys");
-const Mailer = require("../services/mailer");
+const Mailer = require("../services/Mailer");
 const surveyTemplate = require("../services/emailTemplates/surveyTemplate");
 
 module.exports = app => {
